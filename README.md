@@ -2,6 +2,6 @@
 Este repositório contém os materiais utilizados nas aulas do módulo 4, no curso da Udemy.
 ***
 
-# **Apresentando nosso problema**
+# **Apresentando o nosso problema**
 
 <br>
