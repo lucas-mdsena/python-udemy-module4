@@ -23,12 +23,12 @@ Nas features boleanas, 1 significa "sim" e 2 significa "não"; 97 e 99 represent
 - pneumonia: se o paciente já apresenta, ou não, inflamação de vias aéreas.
 - gravidez: se a paciente está grávida.
 - diabetes: se o paciente tem diabetes.
-- copd: se o paciente possui doença pulmonar obstrutiva crônica.
+- doenca_pulmonar_obstrutiva: se o paciente possui doença pulmonar obstrutiva crônica.
 - asthma: se o paciente possui asma.
-- inmsupr: se o paciente é imunossuprimido.
+- imunossuprimido: se o paciente é imunossuprimido.
 - hipertensao: se o paciente possui hipertensão.
 - cardiovascular: se o paciente tem doenças relacionadas ao coração ou aos vasos sanguíneos.
-- renal_cronica: se o paciente tem doença renal crônica ou não.
+- doenca_renal_cronica: se o paciente tem doença renal crônica ou não.
 - outras_doencas: se o paciente possui outras doenças. 
 - obesidade: se o paciente é obeso.
 - fumante: se o paciente é fumante.
