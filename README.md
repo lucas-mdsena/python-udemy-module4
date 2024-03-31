@@ -27,7 +27,7 @@ Nas features boleanas, 1 significa "sim" e 2 significa "não"; 97 e 99 represent
 - asthma: se o paciente possui asma.
 - imunossuprimido: se o paciente é imunossuprimido.
 - hipertensao: se o paciente possui hipertensão.
-- cardiovascular: se o paciente tem doenças relacionadas ao coração ou aos vasos sanguíneos.
+- doenca_cardiovascular: se o paciente tem doenças relacionadas ao coração ou aos vasos sanguíneos.
 - doenca_renal_cronica: se o paciente tem doença renal crônica ou não.
 - outras_doencas: se o paciente possui outras doenças. 
 - obesidade: se o paciente é obeso.
@@ -46,9 +46,9 @@ Com base em nosso conjunto de dados, vamos buscar responder às perguntas abaixo
 
 **b. Nos períodos com mais óbitos, podemos isolar os pacientes e ver qual predisposição de saúde  foi mais presente?**
 
-**c. definir pergunta**
+**c. Qual o percentual de pacientes não hospitalizados faleceram?**
 
-**d. definir pergunta**
+**d. Nos períodos de maior óbitos, há muitos pacientes não hospitalizados?**
 
 
 <br>
