@@ -15,10 +15,10 @@ Este conjunto de dados, disponibilizado pelo governo do México, contém informa
 
 ### **Dicionário de dados (traduzido)**
 
-Nas features boleanas, 1 significa "sim" e 2 significa "não"; 97 e 99 representam missing values.
+Nas features boleanas, 1 significa "sim" e 2 significa "não"; 97, 98 e 99 representam missing values.
 - sexo: 1 p/ mulher e 2 p/ homem.
 - idade: idade do pacienteo.
-- classificacao: resultado do teste de covid (valores 1-3 - paciente foi diagnosticado em diferentes graus; 4 ou superior - paciente não foi contaminado ou que o teste foi inconclusivo)
+- teste_covid: resultado do teste de covid (valores 1-3 - paciente foi diagnosticado em diferentes graus; 4 ou superior - paciente não foi contaminado ou que o teste foi inconclusivo)
 - tipo_paciente: tipo de atendimento que o paciente recebe na unidade (1 - retornou para casa; 2 - hospitalizado)
 - pneumonia: se o paciente já apresenta, ou não, inflamação de vias aéreas.
 - gravidez: se a paciente está grávida.
@@ -50,9 +50,3 @@ Com base em nosso conjunto de dados, vamos buscar responder às perguntas abaixo
 
 **d. Nos períodos de maior óbitos, há muitos pacientes não hospitalizados?**
 
-
-<br>
-<br>
-
-tratamentos a fazer
-- verificar se há homens na tabela com indicação de gravidez
