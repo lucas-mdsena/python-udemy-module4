@@ -48,5 +48,5 @@ Com base em nosso conjunto de dados, vamos buscar responder às perguntas abaixo
 
 **c. Qual o percentual de pacientes não hospitalizados faleceram?**
 
-**d. Nos períodos de maior óbitos, há muitos pacientes não hospitalizados?**
+**d. Nos períodos de maior número de óbitos, há muitos pacientes não hospitalizados?**
 
